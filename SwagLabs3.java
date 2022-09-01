@@ -8,6 +8,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+// This test checks if the site Swag Labs is working well
+// Sara Virijevic
+
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 public class SwagLabs3 {
     public static WebDriver driver;
@@ -277,3 +280,4 @@ public class SwagLabs3 {
     }
 
 }
+
